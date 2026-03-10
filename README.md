@@ -22,7 +22,7 @@
 | `Escala`| String | Escala do eixo Y: `"dB"` ou `"None"`. | `"dB"` |
 | `janela`| String | Janela: `"Retangular"`, `"Hamming"`, `"Hanning"`, `"Blackman"`. | `"Retangular"` |
 | `plot` | Char | Habilitar gráfico: `'y'` para sim, `'n'` para não. | `'y'` |
-| `lado` | Char | Extensão: `"tudo"` (pos/neg) ou `"Metade"` (só pos). | `"tudo"` |
+| `lado` | String | Extensão: `"tudo"` (pos/neg) ou `"Metade"` (só pos). | `"tudo"` |
 
 ## 📦 Como instalar
 
